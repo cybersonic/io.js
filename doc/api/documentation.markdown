@@ -2,7 +2,7 @@
 
 <!-- type=misc -->
 
-The goal of this documentation is to comprehensively explain the Node.js
+The goal of this documentation is to comprehensively explain the io.js
 API, both from a reference as well as a conceptual point of view.  Each
 section describes a built-in module or high-level concept.
 
@@ -79,4 +79,4 @@ change.  Please do not suggest changes in this area; they will be refused.
 Every HTML file in the markdown has a corresponding JSON file with the
 same data.
 
-This feature is new as of node v0.6.12.  It is experimental.
+This feature is new as of io.js v0.6.12.  It is experimental.
